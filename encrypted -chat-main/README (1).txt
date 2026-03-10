@@ -51,8 +51,7 @@ python server.py
 ```bash
 python client.py
 ```
-CAN REFER TO DEMO IMAGES
-![img alt] (https://github.com/Nimitaa/Syntexchub-internship/tree/49e5c5928647d78c535f1adfddbdbb81aa4f7a54/encrypted%20-chat-main/assets)
+CAN REFER TO ASSETS IMAGES
 
 
 ## 🏗️ Project Architecture
